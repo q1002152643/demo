@@ -14,7 +14,6 @@ public class App {
             lists.add(new User(i,"name"+String.valueOf(i)));
             System.out.println(lists.get(i));
         }
-        int i=5;
-        System.out.println(i);
+        System.out.println("22222222222");
     }
 }
